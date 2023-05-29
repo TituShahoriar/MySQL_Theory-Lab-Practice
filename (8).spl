@@ -1,0 +1,4 @@
+8.How do you perform an inner join between two tables?
+sql
+
+SELECT * FROM table1 INNER JOIN table2 ON table1.column

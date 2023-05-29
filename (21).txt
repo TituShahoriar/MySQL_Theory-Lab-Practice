@@ -1,0 +1,8 @@
+21.How can you optimize MySQL queries for better performance? Provide some techniques.
+Some techniques to optimize MySQL queries for better performance include:
+
+Creating indexes on frequently used columns.
+Writing efficient and selective WHERE clauses.
+Minimizing the use of subqueries.
+Avoiding unnecessary joins.
+Properly configuring server settings for memory allocation and caching.

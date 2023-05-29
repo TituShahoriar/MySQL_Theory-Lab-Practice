@@ -1,0 +1,6 @@
+15.What is normalization in database design? Explain the different normal forms.
+Normalization is the process of organizing data in a database to eliminate redundancy and improve data integrity. The different normal forms include:
+
+First Normal Form (1NF): Eliminates duplicate rows and ensures atomicity of data.
+Second Normal Form (2NF): Eliminates partial dependencies by separating data into multiple tables.
+Third Normal Form (3NF): Eliminates transitive dependencies by removing fields that depend on non-key fields.

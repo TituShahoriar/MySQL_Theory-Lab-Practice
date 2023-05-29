@@ -1,0 +1,5 @@
+20.Explain the difference between MyISAM and InnoDB storage engines.
+MyISAM and InnoDB are two popular storage engines in MySQL.
+
+MyISAM: It is suitable for read-heavy workloads, as it provides faster read operations. It does not support transactions or referential integrity constraints.
+InnoDB: It is suitable for transactional workloads, as it supports ACID transactions and provides better data integrity with support for foreign keys and row-level locking.

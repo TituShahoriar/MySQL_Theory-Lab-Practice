@@ -1,0 +1,4 @@
+
+4. Explain the difference between the AND and OR operators in MySQL queries.
+
+The AND operator is used to combine multiple conditions in a query, and all conditions must be true for a row to be included in the result set. The OR operator is used to combine multiple conditions, and at least one of the conditions must be true for a row to be included in the result set.
