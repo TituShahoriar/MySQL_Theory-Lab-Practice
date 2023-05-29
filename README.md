@@ -57,4 +57,4 @@ To contribute, simply submit a pull request or open an issue on the GitHub repos
 👥 Facebook: [fahim.shahoriar.t2](https://www.facebook.com/fahim.shahoriar.t2)
 💼 LinkedIn: [Fahim Shahoriar](https://www.linkedin.com/in/fahim-shahoriar/)
 
-Let's learn and master SQL together! 🎉
+                                                                                                     🎉🎉🎉🎉🎉🎉  Let's learn and master SQL together! 🎉🎉🎉🎉🎉🎉
