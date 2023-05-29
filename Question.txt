@@ -1,0 +1,35 @@
+Certainly! Here's a set of MySQL programming questions arranged in a progressive manner to help you learn MySQL step by step:
+
+Level 1: Basic Concepts and Querying
+1. Write a query to select all columns from a table.
+2. How do you retrieve distinct values from a column?
+3. How do you filter rows based on a specific condition using the WHERE clause?
+4. Explain the difference between the AND and OR operators in MySQL queries.
+5. How do you sort the result set in ascending or descending order using the ORDER BY clause?
+6. What is the purpose of the LIMIT clause? Provide an example.
+
+Level 2: Joins and Aggregations
+7. What are the different types of joins in MySQL? Explain each type with an example.
+8. How do you perform an inner join between two tables?
+9. What is the purpose of the GROUP BY clause? Provide an example.
+10. How do you use aggregate functions like COUNT, SUM, AVG, MIN, and MAX in MySQL queries?
+
+Level 3: Advanced Queries and Subqueries
+11. Explain the concept of subqueries in MySQL and provide an example.
+12. How do you use the IN operator with subqueries to filter results?
+13. What is the difference between a correlated and a non-correlated subquery?
+14. How can you use the EXISTS operator in a subquery to check for the existence of records?
+
+Level 4: Database Design and Normalization
+15. What is normalization in database design? Explain the different normal forms.
+16. How do you create a new table in MySQL? Provide an example with columns and data types.
+17. What is a primary key? How do you define a primary key in a table?
+18. Explain the concept of foreign keys and how they establish relationships between tables.
+19. What is the purpose of indexing in MySQL? How do you create an index on a table?
+
+Level 5: Advanced Concepts and Optimization
+20. Explain the difference between MyISAM and InnoDB storage engines.
+21. How can you optimize MySQL queries for better performance? Provide some techniques.
+22. What is the EXPLAIN statement in MySQL? How does it help in query optimization?
+23. How do you use transactions in MySQL? Explain the ACID properties.
+
