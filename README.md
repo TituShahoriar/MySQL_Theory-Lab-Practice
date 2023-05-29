@@ -13,6 +13,7 @@ Each level consists of a set of questions with explanations and examples to guid
 - ⭐ [Level 3: Advanced Queries and Subqueries](#level-3-advanced-queries-and-subqueries)
 - ⭐ [Level 4: Database Design and Normalization](#level-4-database-design-and-normalization)
 - ⭐ [Level 5: Advanced Concepts and Optimization](#level-5-advanced-concepts-and-optimization)
+- ⭐ [Suggestions and Contributions](#suggestions-and-contributions)
 
 ## Getting Started
 
@@ -38,9 +39,16 @@ To get started with the SQL exercises, follow these steps:
 
 6. 🔁 Repeat the process for other levels to further enhance your SQL skills.
 
-## Contributions
+## Suggestions and Contributions
 
-Contributions to this repository are welcome! If you have any improvements, suggestions, or new SQL exercises to add, feel free to submit a pull request.
+Your suggestions and contributions to improve this repository are highly appreciated! Here are some ways you can contribute:
+
+- 🌟 Add new SQL exercises or modify existing ones to cover more topics and scenarios.
+- 🌟 Improve the clarity or correctness of the questions and solutions.
+- 🌟 Share your ideas on how to enhance the learning experience for SQL programming.
+- 🌟 Report any issues or bugs you encounter.
+
+To contribute, simply submit a pull request or open an issue on the GitHub repository.
 
 ## Contact
 
@@ -49,4 +57,4 @@ Contributions to this repository are welcome! If you have any improvements, sugg
 👥 Facebook: [fahim.shahoriar.t2](https://www.facebook.com/fahim.shahoriar.t2)
 💼 LinkedIn: [Fahim Shahoriar](https://www.linkedin.com/in/fahim-shahoriar/)
 
-Happy coding and enjoy learning SQL! 🎉
+Let's learn and master SQL together! 🎉
